@@ -1,5 +1,5 @@
 # Rat-Lab-Bayesian-Analysis
-Using Bayesian Analysis (Monte Carlo simulation) to understand the difference between tumor genesis in types of mice.
+Using Bayesian analysis (Monte Carlo simulation) to understand the difference between tumor genesis in types of mice.
 
 #### Context
 A cancer lab is estimating the rate of tumorigenesis in two types of mice. Type A mice have been well studied, and information from other labs indicates that type A mice have tumor counts that are approximately Poisson distributed with a mean of 12, and theta a has a gamma distribution as gamma(120,12). Type B mice tumor counts are unknown distribution.
