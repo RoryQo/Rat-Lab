@@ -6,3 +6,4 @@ A cancer lab is estimating the rate of tumorigenesis in two types of mice. Type 
 
 #### Results
 It appears that mice type B have a higher affinity for tumorigenesis than type A (according to our Monte Carlo simulation with gamma prior). Matching the predicted higher tumor count of type B mice in 70% of our simulations (Monte Carlo with Poisson model).  The Poisson model fits the mice type A well. However, it does not fit the type B mice very well and appears to consistently underpredict their standardized tumor count average.
+ 
