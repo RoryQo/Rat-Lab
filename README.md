@@ -59,3 +59,5 @@ The Poisson model fits the tumor counts for Type A mice well, as evidenced by th
 ### Type B Mice
 For Type B mice, the Poisson model does not provide a good fit; the observed statistics deviate significantly from the model's predictions, indicating a need for further investigation into the distribution of tumor counts in this group.
 
+<img src="https://raw.githubusercontent.com/RoryQo/R-Rat-Lab/main/graph2.jpg" alt="Graph Image" width="400" />
+
