@@ -6,7 +6,7 @@
 3. [Analysis Methodology](#analysis-methodology)
 4. [Data and Simulation](#data-and-simulation) 
 5. [Findings](#findings)
-6. [Model Evaluation](#model-evaluation)
+6. [Model Evaluation](#model-evaluation) 
 
 ## Overview
 A cancer lab is investigating the rate of tumorigenesis in two types of mice. Type A mice have been extensively studied, and existing data suggests that their tumor counts follow a Poisson distribution with a mean of 12. The parameter $\theta_A\$ follows a gamma distribution defined as gamma(120, 12). In contrast, the distribution of tumor counts for Type B mice is unknown.
