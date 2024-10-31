@@ -1,5 +1,5 @@
 # Rat Lab Bayesian Analysis     
-   
+    
 ## Table of Contents    
 1. [Overview](#overview)
 2. [Results](#results)
