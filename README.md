@@ -2,7 +2,7 @@
     
 ## Table of Contents    
 1. [Overview](#overview) 
-2. [Results](#results)
+2. [Results](#results) 
 3. [Analysis Methodology](#analysis-methodology)
 4. [Data and Simulation](#data-and-simulation) 
 5. [Findings](#findings)
