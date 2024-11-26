@@ -1,6 +1,6 @@
 # Rat Lab Bayesian Analysis      
     
-## Table of Contents      
+## Table of Contents       
 1. [Overview](#overview) 
 2. [Results](#results) 
 3. [Analysis Methodology](#analysis-methodology)
