@@ -53,11 +53,11 @@ We also examined the probability that the samples $\tilde{Y_B} < \tilde{Y_A}\$ f
 ### Type A Mice
 The Poisson model fits the tumor counts for Type A mice well, as evidenced by the observed statistics closely aligning with the model's predicted values.
 
-<img src="https://github.com/RoryQo/R-Rat-Lab/raw/main/Graph1.jpg" alt="Rat Lab Graph" style="width: 400px;" />
+<img src="https://github.com/RoryQo/R-Rat-Lab/raw/main/Figures/Graph1.jpg" alt="Rat Lab Graph" style="width: 400px;" />
 
 
 ### Type B Mice
 For Type B mice, the Poisson model does not provide a good fit; the observed statistics deviate significantly from the model's predictions, indicating a need for further investigation into the distribution of tumor counts in this group.
 
-<img src="https://raw.githubusercontent.com/RoryQo/R-Rat-Lab/main/graph2.jpg" alt="Graph Image" width="400" />
+<img src="https://raw.githubusercontent.com/RoryQo/R-Rat-Lab/main/Figures/graph2.jpg" alt="Graph Image" width="400" />
 
