@@ -88,10 +88,10 @@ By comparing the posterior distributions of tumor counts for Type A and Type B, 
 ### Type A Mice
 The Poisson model fits the tumor count data for Type A mice well. The observed tumor count statistics closely match the predictions of the Poisson model, suggesting that the model accurately represents the tumor distribution for Type A.
 
-<img src="https://github.com/RoryQo/R-Rat-Lab/raw/main/Figures/Graph1.jpg" alt="Rat Lab Graph" style="width: 400px;" />
+<img src="https://github.com/RoryQo/R-Rat-Lab/raw/main/Figures/graph1.jpg" alt="Rat Lab Graph" style="width: 450px;" />
 
 ### Type B Mice
 For Type B mice, the Poisson model does not provide a good fit. The observed tumor count statistics deviate significantly from the model's predictions. This discrepancy suggests that Type B mice require a more complex model or a different distribution to accurately represent their tumor count data.
 
-<img src="https://raw.githubusercontent.com/RoryQo/R-Rat-Lab/main/Figures/graph2.jpg" alt="Graph Image" width="400" />
+<img src="https://raw.githubusercontent.com/RoryQo/R-Rat-Lab/main/Figures/Graph2.jpg" alt="Graph Image" width="450" />
 
