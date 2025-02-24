@@ -47,9 +47,9 @@ The study employed **Bayesian analysis** in combination with **Monte Carlo simul
 
 The data for this study includes tumor counts from both mouse types, obtained through experimental observations.
 
-- **Type A Tumor Counts**: 10 samples with counts: [12, 9, 12, 14, 13, 13, 15, 8, 15, 6]
-- **Type B Tumor Counts**: 13 samples with counts: [11, 11, 10, 9, 9, 8, 7, 10, 6, 8, 8, 9, 7]
-
+- **Type A Tumor Counts**: 10 samples with counts
+- **Type B Tumor Counts**: 13 samples with counts
+- 
 ### Approach:
 - **Prior Distributions**: Prior distributions were derived based on existing research data for Type A mice, while Type B data were used to derive posterior distributions.
 - **Monte Carlo Simulations**: These were conducted to estimate the tumor counts and generate relevant posterior distributions for both mouse types.
