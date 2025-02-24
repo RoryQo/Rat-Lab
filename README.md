@@ -49,7 +49,7 @@ The data for this study includes tumor counts from both mouse types, obtained th
 
 - **Type A Tumor Counts**: 10 samples with counts
 - **Type B Tumor Counts**: 13 samples with counts
-- 
+  
 ### Approach:
 - **Prior Distributions**: Prior distributions were derived based on existing research data for Type A mice, while Type B data were used to derive posterior distributions.
 - **Monte Carlo Simulations**: These were conducted to estimate the tumor counts and generate relevant posterior distributions for both mouse types.
